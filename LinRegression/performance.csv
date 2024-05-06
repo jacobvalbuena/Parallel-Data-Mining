@@ -1,0 +1,6 @@
+DataPoints,SequentialTime,ParallelTime,ParallelNoSplitTime,SequentialSplittingTime
+100000,96,93,72,8
+200000,33,131,149,14
+300000,49,79,164,25
+400000,64,145,289,50
+500000,73,130,359,29
